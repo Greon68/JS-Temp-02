@@ -4,4 +4,4 @@ import sum from './basic';
 console.log('worked +++');
 console.log('Hello !!!');
 
-console.log(sum([3, 17]));
+console.log(sum([33, 17]));
